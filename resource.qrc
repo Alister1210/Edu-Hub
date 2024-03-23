@@ -1,0 +1,33 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon/back.png</file>
+    <file>icon/EduHub.jpeg</file>
+    <file>Icon/edu_hompage.png</file>
+    <file>Icon/Instagram.png</file>
+    <file>icon/facebook.png</file>
+    <file>icon/twitter.png</file>
+    <file>icon/youtube.png</file>
+    <file>Icon/shadow.png</file>
+    <file>Icon/white_background.jpg</file>
+    <file>Icon/EduHub.jpeg</file>
+    <file>Icon/bgpic.png</file>
+    <file>Icon/College Logo.jpeg</file>
+    <file>Icon/logo.jpeg</file>
+    <file>Icon/account-logout-64.ico</file>
+    <file>Icon/activity-feed-32.ico</file>
+    <file>Icon/activity-feed-48.ico</file>
+    <file>Icon/buy-32.ico</file>
+    <file>Icon/buy-48.ico</file>
+    <file>Icon/chat-4-32.ico</file>
+    <file>Icon/chat-4-48.ico</file>
+    <file>Icon/home-4-32.ico</file>
+    <file>Icon/home-4-48.ico</file>
+    <file>Icon/menu-4-32.ico</file>
+    <file>Icon/orders-32.ico</file>
+    <file>Icon/orders-48.ico</file>
+    <file>Icon/search-13-48.ico</file>
+    <file>Icon/sell-32.ico</file>
+    <file>Icon/sell-48.ico</file>
+    <file>Icon/user-48.ico</file>
+  </qresource>
+</RCC>

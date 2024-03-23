@@ -1,0 +1,29 @@
+
+
+/*= Style for button to change menu style START
+  ==================================================== */
+	#change_btn {
+		padding: 5px;
+		border: none;
+		width: 30px;
+		height: 30px;
+	}
+/*= END
+  ==================================================== */
+
+
+
+
+
+
+
+
+
+
+/*= Style for Drag-Drop QLabel
+  ==================================================== */
+	#ImageLabel {
+		border: 4px dashed #aaa;
+	}
+/*= END
+  ==================================================== */

@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="bg">
+    <file>icon/universe.jpg</file>
+    <file>icon/EDU.png</file>
+    <file>icon/bg.jpg</file>
+  </qresource>
+</RCC>
